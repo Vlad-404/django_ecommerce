@@ -18,5 +18,5 @@
       "**/core.Microsoft*": true,
    },
 "emmet.extensionsPath": ".theia",
-"editor.autoSave": "off"
+"editor.autoSave": "on"
 }
