@@ -38,4 +38,6 @@ We continually tweak and adjust this template to help give you the best experien
 
 --------
 
+Change made so Heroku can start deployment
+
 Happy coding!
